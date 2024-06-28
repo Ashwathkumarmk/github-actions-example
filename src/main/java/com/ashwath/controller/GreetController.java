@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class GreetController {
 @GetMapping("/welcome")
     public String welcomeMsg(){
-        return "HELLO LOHITH N K WELCOME TO JENKINS CICD PIPELINE";
+        return "HELLO ASHWATH M K WELCOME TO GITHUB ACTION CICD PIPELINE";
     }
 }
